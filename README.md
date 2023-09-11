@@ -8,4 +8,6 @@ Many of these apps have a corresponding web counterparts with open source hosted
 
 My blog with thorough explanations of optimization techniques and rendering tricks used in web demos and Android apps - https://keaukraine.medium.com/
 
+My Twitter: https://twitter.com/keaukraine
+
 🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦
